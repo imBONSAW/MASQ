@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="1280" height="720" alt="masq" src="https://github.com/user-attachments/assets/3cc3df09-8147-4c8f-927d-e6084d19baf5" />
+
+
 # 🎭 MASQ
 
 **Transparent MITM positioning at kernel speed — the target never notices.**
